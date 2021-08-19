@@ -1,1 +1,1 @@
-# blog power by hexo and github pages 
+# Blog powered by hexo and github pages 
